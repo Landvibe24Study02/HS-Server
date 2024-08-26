@@ -54,8 +54,6 @@
 
 ## **Branch Convention**
 
-[data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
 [feat] : 기능 추가
 
 [fix] : 에러 수정, 버그 수정
